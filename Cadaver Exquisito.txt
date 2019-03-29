@@ -12,7 +12,7 @@ los_Magios:
 
 laCoope:
 
-nameless_team:
+nameless_team: "El loolapaloza es este finde y no nos ganamos ninguna entrada"
 
 thrall_best_exception:el codigo de calidad hace quehoy no se duerma por el maldito TP
 
