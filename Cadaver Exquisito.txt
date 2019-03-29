@@ -4,7 +4,9 @@ persistencios:
 
 motley_CRUD:
 
-los_Magios:
+los_Magios: hola como estan
+mi nombre es pepe
+pepe es mi nombre
 
 laCoope:
 
