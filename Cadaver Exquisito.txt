@@ -10,7 +10,7 @@ laCoope:
 
 nameless_team:
 
-thrall_best_exception
+thrall_best_exception:el codigo de calidad hace quehoy no se duerma por el maldito TP
 
 undefined:
 
