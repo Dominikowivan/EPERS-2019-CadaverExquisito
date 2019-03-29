@@ -1,6 +1,6 @@
-bandersnatch: El bigote de Tommy es un trampolin de mocos, en el se ocultan bacterias de las
-cuales muchas son únicas y pueden terminar con la vida en el planeta. Se solicita que se lo
-corte urgentemente! Muchas gracias por su atención. :D
+ï»¿bandersnatch: El bigote de Tommy es un trampolin de mocos, en el se ocultan bacterias de las
+cuales muchas son ï¿½nicas y pueden terminar con la vida en el planeta. Se solicita que se lo
+corte urgentemente! Muchas gracias por su atenciï¿½n. :D
 
 persistencios:	el ronny tiene millones y se esta delirando la guita en el lolapaloza y se va a comprar el tegobi de tommy $$
 
@@ -9,7 +9,7 @@ Los ayudantes de persistencia estan dando la clase de Git. Esto se debe a que Ro
 al Lollapalooza. En este recital se pueden encontrar varios bigotes como el de Tommy. Este bigote se obtiene
 persistiendo en no afeitarse ;)
 
-nameless_team: "El loolapaloza  es este finde y no nos ganamos ninguna entrada"
+Ademas el loolapaloza  es este finde y no nos ganamos ninguna entrada"
 
 thrall_best_exception:el codigo de calidad hace quehoy no se duerma por el maldito TP
 
