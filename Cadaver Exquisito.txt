@@ -9,7 +9,7 @@ Los ayudantes de persistencia estan dando la clase de Git. Esto se debe a que Ro
 al Lollapalooza. En este recital se pueden encontrar varios bigotes como el de Tommy. Este bigote se obtiene
 persistiendo en no afeitarse ;)
 
-nameless_team: "El loolapaloza  es este finde y no nos ganamos ninguna entrada"
+nameless_team: El loolapaloza  es este finde y no nos ganamos ninguna entrada y el codigo de calidad hace quehoy no se duerma por el maldito TP
 
 thrall_best_exception:el codigo de calidad hace quehoy no se duerma por el maldito TP
 
