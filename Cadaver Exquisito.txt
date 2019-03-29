@@ -1,6 +1,6 @@
 bandersnatch:
 
-persistencios:
+persistencios:	el ronny tiene millones y se esta delirando la guita en el lolapaloza y se va a comprar el tegobi de tommy $$
 
 motley_CRUD:
 
