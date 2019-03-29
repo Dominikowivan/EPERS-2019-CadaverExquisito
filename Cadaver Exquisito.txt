@@ -1,6 +1,6 @@
 bandersnatch:
 
-persistencios:
+persistencios: que no podia navegar
 
 motley_CRUD:
 
