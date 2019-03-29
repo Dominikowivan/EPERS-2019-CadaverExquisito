@@ -5,7 +5,9 @@ corte urgentemente! Muchas gracias por su atención. :D
 persistencios:
 
 motley_CRUD:
-
+Los ayudantes de persistencia estan dando la clase de Git. Esto se debe a que Ronny fue a buscar sus millones
+al Lollapalooza. En este recital se pueden encontrar varios bigotes como el de Tommy. Este bigote se obtiene
+persistiendo en no afeitarse ;)
 los_Magios:
 
 laCoope:
