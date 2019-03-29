@@ -8,7 +8,7 @@ los_Magios:
 
 laCoope:
 
-nameless_team:
+nameless_team: "El loolapaloza es este finde y no nos ganamos ninguna entrada"
 
 thrall_best_exception
 
