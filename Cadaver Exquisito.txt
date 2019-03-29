@@ -20,3 +20,5 @@ Definitivamente un toque de elegancia que destaca.
 two_and_half_girl: Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 El codigo de calidad
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+LaCoope: Luego de que el grupo anterior haya consumido sustancias extraterrestres, la industria finalmente tuvo éxito, y ahora esta en busca de desarrolladores cobol con mas de 80 años sin jubilacion
