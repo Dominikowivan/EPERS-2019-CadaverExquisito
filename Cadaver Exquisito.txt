@@ -6,7 +6,7 @@ motley_CRUD:
 
 los_Magios:
 
-laCoope:
+laCoope: Los millones de Ronny
 
 nameless_team:
 
